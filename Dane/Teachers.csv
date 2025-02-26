@@ -1,0 +1,51 @@
+TeacherID,FirstName,LastName,Address,City,Country,Email,PhoneNumber
+1,Mieszko,Szott,plac Widok 58,Szczecin,Poland,smikita@example.com,+48729362272
+2,Dariusz,Toczko,pl. Miła 20,Grodzisk Mazowiecki,Poland,qkwak@example.net,+48309072468
+3,Maksymilian,Sarniak,al. Dobra 80,Żory,Poland,jedrzejskrobot@example.net,+48914460947
+4,Szymon,Myszor,plac Pszenna 61/68,Łuków,Poland,urszularurarz@example.org,+48491436453
+5,Malwina,Błażejczak,plac Szpitalna 69,Piaseczno,Poland,apolonia24@example.net,+48313348390
+6,Borys,Turlej,pl. Niecała 807,Iława,Poland,leonsmyl@example.net,+48471486463
+7,Nicole,Kusyk,al. Agrestowa 91/72,Rybnik,Poland,olaf47@example.net,+48388435217
+8,Julian,Sabak,plac Jeżynowa 14/25,Tczew,Poland,marianna17@example.com,+48174991520
+9,Filip,Sapała,al. Ściegiennego 41/53,Zabrze,Poland,suchojadalan@example.org,+48941098191
+10,Blanka,Moniuszko,al. Grunwaldzka 65,Inowrocław,Poland,ida11@example.org,+48961492841
+11,Blanka,Klaus,ulica Piłsudskiego 24/12,Koło,Poland,sberendt@example.com,+48545274576
+12,Aurelia,Berendt,plac Bałtycka 98/24,Ostrowiec Świętokrzyski,Poland,tola99@example.net,+48973273557
+13,Urszula,Sobel,al. Solidarnosci 124,Bytom,Poland,olaf31@example.net,+48761698930
+14,Kajetan,Wiatrak,ul. Łanowa 74,Grudziądz,Poland,mateusz90@example.net,+48965888913
+15,Stanisław,Winnik,ul. Widok 372,Siemianowice Śląskie,Poland,golekmalwina@example.com,+48243017188
+16,Nataniel,Wiercigroch,aleja Torowa 94,Wrocław,Poland,wiktorsprycha@example.net,+48507882855
+17,Przemysław,Labudda,pl. Błękitna 57,Tarnowskie Góry,Poland,ewelinazbrzezniak@example.net,+48924872920
+18,Maks,Krakowczyk,plac Władysława Jagiełły 46/44,Goleniów,Poland,sandra42@example.net,+48452417976
+19,Miłosz,Dycha,ul. Kreta 20/76,Piastów,Poland,przemyslaw88@example.org,+48775796549
+20,Angelika,Wiciak,ul. Magnoliowa 77,Bytom,Poland,tuzimekmikolaj@example.net,+48791567684
+21,Gustaw,Mazanek,aleja Księżycowa 254,Kielce,Poland,idziadura@example.org,+48186302930
+22,Norbert,Szóstak,aleja Chopina 53,Bielsko-Biała,Poland,wrochnakarol@example.net,+48961910226
+23,Alan,Łukasiuk,plac Baczynskiego 40,Żary,Poland,dorotabryndza@example.org,+48559462242
+24,Karina,Leoniak,aleja Stroma 74/35,Sopot,Poland,lidia91@example.com,+48192794245
+25,Leon,Rutowicz,ul. Górna 839,Brzeg,Poland,jacek16@example.net,+48399669258
+26,Miłosz,Karwan,ulica Agrestowa 04/38,Wołomin,Poland,cezary86@example.net,+48125689909
+27,Jeremi,Keler,ul. Średnia 091,Mikołów,Poland,stryjekdominik@example.com,+48612333322
+28,Emil,Szeszko,ul. Rejtana 85,Kraków,Poland,szaradorota@example.org,+48348890579
+29,Malwina,Choroś,pl. Przemysłowa 116,Mielec,Poland,tymoteuszzal@example.com,+48272873482
+30,Ewa,Wojtarowicz,aleja Wyspiańskiego 48,Rumia,Poland,robert28@example.org,+48981777889
+31,Apolonia,Madzia,al. Wojska Polskiego 99/29,Świdnik,Poland,marcelinakolarz@example.com,+48642946823
+32,Tymoteusz,Kolarz,ul. Brzoskwiniowa 04,Koło,Poland,sburza@example.com,+48255390711
+33,Daniel,Jaskóła,pl. Wyspiańskiego 78,Żary,Poland,urszula68@example.net,+48863315306
+34,Maks,Waszczyk,pl. Składowa 48/28,Dąbrowa Górnicza,Poland,wkastelik@example.net,+48727665352
+35,Bianka,Toczko,aleja Makuszyńskiego 72,Malbork,Poland,liwia39@example.org,+48445468919
+36,Aleks,Dziurla,ulica Rubinowa 68,Bochnia,Poland,natanielnarozna@example.org,+48664542806
+37,Aleks,Kloska,aleja Niepodległości 568,Dzierżoniów,Poland,lukaszwieja@example.net,+48908486013
+38,Karina,Kochel,al. Rajska 901,Ruda Śląska,Poland,ignacypieczyrak@example.com,+48448009824
+39,Marcel,Breś,aleja Floriana 75/17,Ostrów Mazowiecka,Poland,nduniec@example.net,+48921466896
+40,Cyprian,Osada,pl. Toruńska 12,Poznań,Poland,pastuchamaurycy@example.com,+48932076323
+41,Gary,Warren,90479 Monica Canyon Apt. 208,Wolftown,Tunisia,jillmullen@example.com,+85616301696
+42,Jason,Shaffer,24626 Ellis Run,North Michelleton,Saint Lucia,fitzgeraldtyler@example.com,+27997561684
+43,Nicole,Russell,96280 Eric Pines Apt. 035,Port Amandafurt,Ecuador,urobinson@example.org,+79999629884
+44,Cheryl,Hanson,35104 Harper Street Suite 007,Lake Ericatown,Eritrea,robertwilliams@example.org,+46974033146
+45,Paul,Bates,0557 Gordon Springs Apt. 853,Millerborough,Bermuda,rogerrichmond@example.com,+46746193776
+46,Tonya,Young,822 Meyer Inlet,Alvaradoton,Yemen,ilopez@example.org,+95607519343
+47,Jacob,Williams,914 Nguyen Circle,Port Sherri,French Polynesia,andrea40@example.com,+40407691488
+48,Donna,Williams,7546 Stevens Mountains Apt. 699,Alexandraberg,Burkina Faso,edaniel@example.net,+82925342178
+49,Allison,Smith,26376 Michelle Green,Christianchester,Guinea-Bissau,areed@example.com,+38533214453
+50,William,Kennedy,5948 Wallace Street,Blackmouth,Tuvalu,amberwalls@example.net,+77867972419

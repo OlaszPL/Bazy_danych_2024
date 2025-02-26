@@ -1,0 +1,61 @@
+SubjectID,SubjectName,Description,StudiesID
+1,Metodyki zwinne,"Kurs obejmuje Scrum, Kanban i inne popularne metodyki zarzadzania projektami w podejsciu Agile",1
+2,Analiza ryzyka,"Identyfikacja, ocena i zarzadzanie ryzykiem w projektach",1
+3,MS Project,Praktyczne wykorzystanie programu MS Project w zarzadzaniu projektami,1
+4,Komunikacja w zespole,Efektywna komunikacja i zarzadzanie zespolem projektowym,1
+5,Prawo administracyjne,Podstawy prawa administracyjnego i postepowania administracyjnego,2
+6,E-administracja,Cyfryzacja uslug administracji publicznej,2
+7,Finanse publiczne,Zarzadzanie finansami w sektorze publicznym,2
+8,Polityka regionalna UE,Zasady funkcjonowania i finansowania polityki regionalnej UE,2
+9,Statystyka,Metody statystyczne w analizie danych gospodarczych,3
+10,Ekonometria,Modelowanie i prognozowanie zjawisk ekonomicznych,3
+11,Big Data,Analiza duzych zbiorów danych w biznesie,3
+12,Business Intelligence,Narzedzia i systemy wspomagania decyzji biznesowych,3
+13,Rachunkowosc finansowa,Podstawy rachunkowosci i sprawozdawczosci finansowej,4
+14,Analiza finansowa,Metody analizy sytuacji finansowej przedsiebiorstwa,4
+15,Controlling,Kontrola i planowanie finansowe w przedsiebiorstwie,4
+16,Podatki,System podatkowy i optymalizacja podatkowa,4
+17,Prawo cywilne,Zagadnienia z zakresu prawa cywilnego materialnego i procesowego,5
+18,Prawo karne,Podstawy prawa karnego i postepowania karnego,5
+19,Prawo handlowe,Regulacje prawne dotyczace obrotu gospodarczego,5
+20,Prawo konstytucyjne,Podstawy ustroju panstwa i prawa konstytucyjnego,5
+21,Projektowanie CAD,Komputerowe wspomaganie projektowania architektonicznego,6
+22,Historia architektury,Historia stylów i nurtów w architekturze,6
+23,Konstrukcje budowlane,Podstawy projektowania konstrukcji budowlanych,6
+24,Urbanistyka,Planowanie przestrzenne i projektowanie urbanistyczne,6
+25,Ochrona srodowiska,Podstawy ochrony srodowiska i zrównowazonego rozwoju,7
+26,Gospodarka wodna,Zarzadzanie zasobami wodnymi i systemy wodne,7
+27,Energia odnawialna,Technologie wykorzystania odnawialnych zródel energii,7
+28,Gospodarka odpadami,Metody zagospodarowania i utylizacji odpadów,7
+29,Psychologia kliniczna,Diagnoza i terapia zaburzen psychicznych,8
+30,Psychologia rozwojowa,Rozwój czlowieka w ciagu zycia,8
+31,Psychoterapia,Podstawy prowadzenia psychoterapii,8
+32,Diagnoza psychologiczna,Metody diagnostyczne w psychologii,8
+33,Analiza matematyczna,Podstawy analizy matematycznej i jej zastosowania,9
+34,Algebra liniowa,Teoria i zastosowania algebry liniowej,9
+35,Statystyka matematyczna,Metody statystyczne i ich zastosowania,9
+36,Równania rózniczkowe,Teoria i zastosowania równan rózniczkowych,9
+37,Programowanie Java,Podstawy i zaawansowane techniki programowania w Java,10
+38,Bazy danych,Projektowanie i zarzadzanie bazami danych,10
+39,Sieci komputerowe,Architektura i protokoly sieci komputerowych,10
+40,Sztuczna inteligencja,Podstawy AI i uczenia maszynowego,10
+41,Rekrutacja i selekcja,Metody rekrutacji i selekcji pracowników,11
+42,Prawo pracy,Prawne aspekty zatrudnienia i stosunku pracy,11
+43,Systemy motywacyjne,Projektowanie systemów motywacyjnych w organizacji,11
+44,Rozwój pracowników,Planowanie i realizacja szkolen pracowniczych,11
+45,Genetyka,Podstawy genetyki i dziedziczenia,12
+46,Biochemia,Procesy biochemiczne w organizmach zywych,12
+47,Biologia komórki,Budowa i funkcjonowanie komórek,12
+48,Techniki laboratoryjne,Metody badan laboratoryjnych w biologii,12
+49,Prawo miedzynarodowe,Podstawy prawa miedzynarodowego publicznego,13
+50,Organizacje swiatowe,Funkcjonowanie organizacji miedzynarodowych,13
+51,Dyplomacja,Teoria i praktyka dyplomacji,13
+52,Geopolityka,Analiza stosunków miedzynarodowych,13
+53,Chemia organiczna,Zwiazki organiczne i ich reakcje,14
+54,Chemia nieorganiczna,Pierwiastki i zwiazki nieorganiczne,14
+55,Chemia fizyczna,Termodynamika i kinetyka chemiczna,14
+56,Analiza chemiczna,Metody analizy chemicznej,14
+57,Warsztat dziennikarski,Podstawy pracy dziennikarskiej,15
+58,Media cyfrowe,Dziennikarstwo w erze cyfrowej,15
+59,Etyka mediów,Zasady etyczne w pracy dziennikarza,15
+60,Fotografia prasowa,Podstawy fotografii dziennikarskiej,15

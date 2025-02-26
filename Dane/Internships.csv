@@ -1,0 +1,31 @@
+InternshipID,StudiesID,InternshipName,StartingDate,Description
+1,1,Project Manager Assistant,2025-02-01 00:00:00.000,Praktyki w dziale zarzadzania projektami miedzynarodowej korporacji. Wsparcie przy prowadzeniu projektów IT i transformacji cyfrowej.
+2,1,Scrum Master Intern,2025-07-15 00:00:00.000,Praktyki w startupie technologicznym. Udzial w prowadzeniu zespolów Scrumowych i organizacji procesów Agile.
+3,2,Praktykant Urzedu Miasta,2025-03-01 00:00:00.000,Praktyki w wydziale organizacyjnym urzedu miasta. Poznanie procedur administracyjnych i obslugi petentów.
+4,2,Staz w NFZ,2025-09-01 00:00:00.000,Praktyki w Narodowym Funduszu Zdrowia. Zapoznanie z systemem ochrony zdrowia i procedurami administracyjnymi.
+5,3,Analityk Danych Stazysta,2025-02-15 00:00:00.000,Praktyki w dziale analiz duzej firmy konsultingowej. Udzial w projektach analitycznych i tworzeniu raportów.
+6,3,Business Intelligence Intern,2025-08-01 00:00:00.000,Staz w korporacji finansowej. Praca przy tworzeniu dashboardów i analizie danych biznesowych.
+7,4,Praktykant Ksiegowosc,2025-01-15 00:00:00.000,Praktyki w dziale ksiegowosci miedzynarodowej firmy. Wsparcie przy ksiegowaniu i raportowaniu finansowym.
+8,4,Staz Audyt Finansowy,2025-07-01 00:00:00.000,Praktyki w firmie audytorskiej z wielkiej czwórki. Udzial w audytach finansowych i due diligence.
+9,5,Praktykant Kancelarii,2025-03-15 00:00:00.000,Praktyki w renomowanej kancelarii prawnej. Wsparcie przy prowadzeniu spraw cywilnych i gospodarczych.
+10,5,Staz Dzial Prawny,2025-09-15 00:00:00.000,Praktyki w dziale prawnym duzej korporacji. Przygotowywanie umów i opinii prawnych.
+11,6,Praktykant Architekt,2025-02-01 00:00:00.000,Praktyki w pracowni architektonicznej. Udzial w projektowaniu budynków mieszkalnych i uzytecznosci publicznej.
+12,6,Staz Projektant Wnetrz,2025-07-01 00:00:00.000,Praktyki w studio projektowania wnetrz. Przygotowywanie projektów i wizualizacji wnetrz.
+13,7,Ekolog Stazysta,2025-04-01 00:00:00.000,Praktyki w firmie zajmujacej sie odnawialnymi zródlami energii. Udzial w projektach srodowiskowych.
+14,7,Praktykant Ochrona Srodowiska,2025-08-15 00:00:00.000,Staz w przedsiebiorstwie gospodarki komunalnej. Monitoring srodowiskowy i gospodarka odpadami.
+15,8,Praktykant HR,2025-03-01 00:00:00.000,Praktyki w dziale HR duzej firmy. Wsparcie procesów rekrutacyjnych i rozwoju pracowników.
+16,8,Staz Psycholog Szkolny,2025-09-01 00:00:00.000,Praktyki w poradni psychologiczno-pedagogicznej. Wsparcie w prowadzeniu zajec i konsultacji.
+17,9,Analityk Danych Stazysta,2025-02-01 00:00:00.000,Praktyki w firmie analitycznej. Wykorzystanie metod statystycznych w analizie danych.
+18,9,Praktykant Modelowanie Mat.,2025-07-15 00:00:00.000,Staz w instytucie badawczym. Modelowanie matematyczne zjawisk fizycznych.
+19,10,Junior Developer Intern,2025-01-15 00:00:00.000,Praktyki w firmie programistycznej. Rozwój aplikacji webowych w technologiach frontendowych i backendowych.
+20,10,DevOps Intern,2025-07-01 00:00:00.000,Staz w dziale IT korporacji. Wsparcie procesów CI/CD i administracji systemami.
+21,11,HR Intern,2025-03-01 00:00:00.000,Praktyki w miedzynarodowej firmie HR. Wsparcie procesów rekrutacyjnych i administracji personalnej.
+22,11,Praktykant Kadry i Place,2025-08-15 00:00:00.000,Staz w dziale kadr duzej firmy. Obsluga dokumentacji pracowniczej i procesów kadrowych.
+23,12,Lab Assistant Intern,2025-02-15 00:00:00.000,Praktyki w laboratorium badawczym. Udzial w badaniach molekularnych i genetycznych.
+24,12,Research Intern,2025-07-01 00:00:00.000,Staz w instytucie naukowym. Praca przy projektach badawczych z zakresu biologii molekularnej.
+25,13,Praktykant Dyplomacja,2025-03-15 00:00:00.000,Praktyki w konsulacie. Wsparcie przy obsludze spraw konsularnych i organizacji wydarzen.
+26,13,Stazysta NGO,2025-09-01 00:00:00.000,Staz w organizacji pozarzadowej. Udzial w projektach miedzynarodowych i wspólpracy rozwojowej.
+27,14,Lab Assistant,2025-02-01 00:00:00.000,Praktyki w laboratorium przemyslowym. Analiza chemiczna i kontrola jakosci produktów.
+28,14,Research Chemistry Intern,2025-07-15 00:00:00.000,Staz w instytucie badawczym. Udzial w projektach badawczych z zakresu chemii organicznej.
+29,15,Praktykant Redakcja,2025-01-15 00:00:00.000,Praktyki w redakcji portalu internetowego. Tworzenie tresci i prowadzenie mediów spolecznosciowych.
+30,15,Stazysta TV,2025-06-01 00:00:00.000,Staz w stacji telewizyjnej. Przygotowywanie materialów i wsparcie przy produkcji programów.

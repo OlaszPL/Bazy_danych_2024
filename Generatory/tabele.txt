@@ -1,0 +1,49 @@
++ VAT
++ GradesList
++ CurrenciesRate
++ Students
++ Teachers
++ Languages
++ Translators
++ TranslatorLanguageDetails
++ Locations
++ Webinars
++ Courses
++ CourseModules 
++ StationaryModule
++ OnlineAsyncModule
++ OnlineSyncModule
++ HybridModules
++ Studies
++ Subjects
++ Internships
++ AcademicMeeting
++ OnlineAsyncMeeting
++ OnlineSyncMeeting
++ StationaryMeeting
++ HybridMeetings
+
++ Orders
++ Payments
++ OrderContentDetails
++ OrderCourse
++ OrderStudies
++ OrderWebinar
++ OrderAcademicMeeting
+
++ WebinarDetails
++ CourseStudentDetails
++ ModuleAttendance
++ StudentStudiesDetails
++ StudentInternshipDetails
++ StudentSubjectDetails
++ MeetingAttendance
+
+Kolejność generowania wpisów:
+
+1. Po kolei StudentID (od 1 do 300)
+2. Tworzymy OrderID i OrderContentDetails
+3. Dodajemy mu kurs, studia, webinar oraz jedno spotkanie akademickie (też po kolei) - od razu zliczamy koszty
+oraz uzupełniamy odpowiednie tabele dotyczące studenta na danych zajęciach.
+Trzeba by też tutaj zadbać aby wybierać moduły itp należące do danego kursu.
+4. Tworzymy rekord do Payments, w którym zapłacono tego samego dnia pełną kwotę.
