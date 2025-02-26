@@ -5,6 +5,7 @@
 **Autorzy:**  
 - [![GitHub](https://img.shields.io/badge/-OlaszPL-181717?logo=github)](https://github.com/OlaszPL) - Aleksander Jóźwik
 - [![GitHub](https://img.shields.io/badge/-kacperon-181717?logo=github)](https://github.com/kacperon) - Kacper Feliks
+- [![GitHub](https://img.shields.io/badge/-kpolchl-181717?logo=github)](https://github.com/kpolchl) - Karol Półchłopek
 
 ---
 
